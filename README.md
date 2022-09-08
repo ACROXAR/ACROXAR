@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ACROXAR
 - 👀 I’m interested in Fixedwing drones
-- 🌱 I’m currently want MAVLINK mornitoring software
+- 🌱 I’m currently want MAVLINK monitoring software
 - 💞️ I’m looking to collaborate with you
 - 📫 Help me
 
